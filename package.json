@@ -18,7 +18,7 @@
     "gatsby": "^2.32.8",
     "gatsby-plugin-react-helmet": "^3.3.10",
     "gatsby-plugin-sass": "^2.3.10",
-    "gatsby-plugin-sharp": "^2.6.19",
+    "gatsby-plugin-sharp": "^5.10.0",
     "gatsby-remark-images": "^3.3.19",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-contentful": "^4.6.1",
